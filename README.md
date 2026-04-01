@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavmore23)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavm2344)
-[![Profile Views](https://komarev.com/ghpvc/?username=vaibhavm2344&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/vaibhavm2344)
 
 </div>
 
@@ -20,9 +19,9 @@ const vaibhav = {
   role:         "Software Developer",
   focus:        ["Full Stack", "Backend", "DevOps"],
   currentWork:  "MERN + FastAPI web applications",
-  learning:     ["Jenkins", "Docker", "SonarQube", "CI/CD"],
-  openTo:       "Software Developer | Full Stack | Senior Backend Developer",
-  funFact:      "Built a MonkeyType-style app that pulls real code from GitHub repos!"
+  learning:     ["Jenkins", "Docker", "k8s", "CI/CD", "AWS"],
+  openTo:       "Software Developer | Full Stack | Backend Developer | DevOps Engineer",
+  funFact:      "Built a MonkeyType-style typing web app that pulls real code from GitHub repos!"
 };
 ```
 
@@ -102,22 +101,9 @@ const vaibhav = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavm2344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=vaibhavm2344&theme=tokyonight&hide_border=true" />
 
 <br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavm2344&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vaibhavm2344&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
