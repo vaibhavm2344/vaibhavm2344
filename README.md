@@ -1,72 +1,100 @@
 <div align="center">
 
-# Hey, I'm Vaibhav More 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Hey+there%2C+I'm+Vaibhav+More+%F0%9F%91%8B;Software+Developer;Full+Stack+%7C+Backend+%7C+DevOps" alt="Typing SVG" />
 
-### Software Developer · Full Stack · DevOps Enthusiast
-**📍 Pune, Maharashtra, India**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vaibhavmore23-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavmore23)
-[![GitHub](https://img.shields.io/badge/GitHub-vaibhavm2344-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavm2344)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavmore23)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavm2344)
+[![Profile Views](https://komarev.com/ghpvc/?username=vaibhavm2344&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)](https://github.com/vaibhavm2344)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a software developer based in Pune, passionate about building full-stack web applications and engineering robust backend systems. I enjoy working across the stack — from designing REST APIs and backend architectures to crafting clean, responsive frontends. I'm also interested in DevOps practices like CI/CD pipelines, containerization, and code quality tooling.
-
-- 🔭 Currently building full-stack MERN & FastAPI-based applications
-- ⚙️ Exploring DevOps with **Jenkins**, **Docker**, and **SonarQube**
-- 🌐 Open to opportunities as a **Software Developer / Full Stack Developer / Senior Backend Developer**
-- 📬 Let's connect on [LinkedIn](https://linkedin.com/in/vaibhavmore23)
+```javascript
+const vaibhav = {
+  location:     "Pune, Maharashtra 🇮🇳",
+  role:         "Software Developer",
+  focus:        ["Full Stack", "Backend", "DevOps"],
+  currentWork:  "MERN + FastAPI web applications",
+  learning:     ["Jenkins", "Docker", "SonarQube", "CI/CD"],
+  openTo:       "Software Developer | Full Stack | Senior Backend Developer",
+  funFact:      "Built a MonkeyType-style app that pulls real code from GitHub repos!"
+};
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [MasterAnything](https://github.com/vaibhavm2344/masterAnything-backend)
-> Full-stack MERN web application that generates personalized learning plans by entering a topic and number of days.
+<table>
+<tr>
+<td width="50%">
 
-**Tech:** Node.js · Express.js · MongoDB · React · Docker · Jenkins · SonarQube  
-**Highlights:** CI/CD pipeline with Jenkins, SonarQube static analysis, Dockerized backend, Quality Gate enforcement
+### 🧠 MasterAnything
+> Full-stack MERN app that generates **personalized learning plans** from any topic + number of days.
 
----
+**Stack:** Node.js · Express · MongoDB · React · Docker · Jenkins · SonarQube
 
-### ⚡ [CodeSprint](https://github.com/vaibhavm2344/CodeSprint)
-> MonkeyType for developers — fetches real code snippets from official GitHub repos for typing practice.
+✅ CI/CD with Jenkins pipeline  
+✅ SonarQube static code analysis  
+✅ Dockerized backend  
+✅ Quality Gate enforcement
 
-**Tech:** FastAPI · Python · React (Vite) · Axios · GitHub REST API · Pydantic · Uvicorn  
-**Highlights:** Language-based file filtering engine, asynchronous REST API, difficulty-based snippet selection
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/vaibhavm2344/masterAnything-backend)
+
+</td>
+<td width="50%">
+
+### ⚡ CodeSprint
+> **MonkeyType for developers** — fetches real code snippets from GitHub repos for typing practice.
+
+**Stack:** FastAPI · Python · React (Vite) · Axios · GitHub REST API · Pydantic
+
+✅ Language-based file filtering engine  
+✅ Async REST API with FastAPI  
+✅ Difficulty-based snippet selection  
+✅ Full frontend + backend split
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/vaibhavm2344/CodeSprint)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -74,23 +102,47 @@ I'm a software developer based in Pune, passionate about building full-stack web
 
 <div align="center">
 
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavm2344&show_icons=true&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaibhavm2344&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=vaibhavm2344&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavm2344&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavm2344&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 ---
 
-## 📫 Get In Touch
+## 🏆 GitHub Trophies
 
-I'm currently open to new opportunities. Feel free to reach out!
+<div align="center">
 
-- 💼 [LinkedIn](https://linkedin.com/in/vaibhavmore23)
-- 🐙 [GitHub](https://github.com/vaibhavm2344)
+![Trophies](https://github-profile-trophy.vercel.app/?username=vaibhavm2344&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
+## 📈 Contribution Graph
+
 <div align="center">
-  <i>Building things that matter, one commit at a time.</i>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavm2344&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+💼 Open to roles as **Software Developer · Full Stack Developer · Senior Backend Developer**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavmore23)
+
+---
+
+*"Building things that matter, one commit at a time."*
+
 </div>
